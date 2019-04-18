@@ -18,3 +18,9 @@ int main()
 }
 
 # Contributors
+{% include_relative _stu/1155105818.md %}
+{% include_relative _stu/1155109164.md %}
+{% include_relative _stu/1155109979.md %}
+{% include_relative _stu/1155110567.md %}
+
+{{site.time}}
