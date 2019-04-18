@@ -9,18 +9,20 @@ Finally, we will promote our repo to the CSCI3250 organization, and wait for @ch
 good luck~
 
 # Code
-int main()
-{
-    printf("?");
-    for(int i=0;i<3;i++)
-        printf("6");
-    return 0;
+```c
+#include <stdio.h>
+int main() { 
+  printf("?"); 
+  return 0; 
 }
+```
+[![Build Status](https://travis-ci.com/csci3250-2019/project-team-c.svg?branch=master)](https://travis-ci.com/csci3250-2019/project-team-c)
 
 # Contributors
 {% include_relative _stu/1155105818.md %}
 {% include_relative _stu/1155109164.md %}
 {% include_relative _stu/1155109979.md %}
 {% include_relative _stu/1155110567.md %}
+{% include_relative _stu/1155107729.md %}
 
 {{site.time}}
