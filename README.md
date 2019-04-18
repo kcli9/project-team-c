@@ -9,5 +9,12 @@ Finally, we will promote our repo to the CSCI3250 organization, and wait for @ch
 good luck~
 
 # Code
+int main()
+{
+    printf("?");
+    for(int i=0;i<3;i++)
+        printf("6");
+    return 0;
+}
 
 # Contributors
