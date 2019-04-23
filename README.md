@@ -28,7 +28,6 @@ int main() {
 {% include_relative _stu/1155110322.md %}
 {% include_relative _stu/1155112412.md %}
 {% include_relative _stu/1155109654.md %}
-{% include_relative _stu/1155119437.md %}
 {% include_relative _stu/1155108198.md %}
 {% include_relative _stu/1155102432.md %}
 {% include_relative _stu/1155106594.md %}
